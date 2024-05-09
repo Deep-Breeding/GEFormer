@@ -2,7 +2,7 @@
   GEFormer is a genome-wide prediction model for genotype-environment interactions based on a deep learning approach designed to predict maize phenotypes using genotype and environment jointly.
 
 # 0. Requirements
-   We build GEFormer on the Python 3.9, pytorch1.8.1, We recommend anaconda environment for GEFormer.
+   We build GEFormer on the Python 3.8, pytorch1.8.1, We recommend anaconda environment for GEFormer.
 # 1. Installation
    Clone this repository
    git clone https://github.com/Deep-Breeding/GEFormer
