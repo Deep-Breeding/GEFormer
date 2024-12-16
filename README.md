@@ -6,6 +6,7 @@
 # 1. Installation
    Clone this repository
    git clone https://github.com/Deep-Breeding/GEFormer
+   or https://pan.baidu.com/s/1HrJSrV_tPrsqmllEHEmYqA (Extraction code: 1234)
 # 2. Build the virtual environment
    conda create -n GEFormer python=3.8     
    conda activate GEFormer               
