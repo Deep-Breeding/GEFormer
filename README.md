@@ -51,9 +51,9 @@
 
 ## User Manual
 
-1 git clone user manual： [*https://github.com/Deep-Breeding/GEFormer/tree/main/GEFormerV1.0/GEFormerV1_ usermannual.pdf*](https://github.com/Deep-Breeding/GEFormer/tree/main/GEFormerV1.0/GEFormerV1_ usermannual.pdf)
+1 git clone user manual： [https://github.com/Deep-Breeding/GEFormer/tree/main/GEFormerV1.0/GEFormerV1_ usermannual.pdf](https://github.com/Deep-Breeding/GEFormer/tree/main/GEFormerV1.0/GEFormerV1_ usermannual.pdf)
 
-2 docker user manual(Chinese):  [*https://github.com/Deep-Breeding/GEFormer/tree/main/GEFormerV1.0_docker/GEFormerV1_ docker_usermannual.pdf*](https://github.com/Deep-Breeding/GEFormer/tree/main/GEFormerV1.0_docker/GEFormerV1_ docker_usermannual.pdf)
+2 docker user manual(Chinese):  [https://github.com/Deep-Breeding/GEFormer/tree/main/GEFormerV1.0_docker/GEFormerV1_ docker_usermannual.pdf](https://github.com/Deep-Breeding/GEFormer/tree/main/GEFormerV1.0_docker/GEFormerV1_ docker_usermannual.pdf)
 
 ## Input data
 
