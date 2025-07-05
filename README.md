@@ -19,7 +19,7 @@
 
 ## Installation
 
-###1  The first installation method by using git clone.
+### 1  The first installation method by using git clone.
 
 (1) git clone: https://github.com/Deep-Breeding/GEFormer/tree/main/GEFormerV1.0
    
@@ -35,13 +35,13 @@
                        
     pip install -r requirements.txt
 
-###2  The second installation method by using docker.
+### 2  The second installation method by using docker.
     
     docker: https://hub.docker.com/r/coder02lq/geformer
 
     docker pull coder02lq/geformer:v1
 
-###3  The third installation method by using PiP.
+### 3  The third installation method by using PiP.
 
     conda create -n GEFormer python=3.8  
    
