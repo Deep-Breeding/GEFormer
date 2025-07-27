@@ -3,6 +3,9 @@
 
 ![GEFormer](imgs/GEFormer.png)  
 
+##  Video tutorial(WeChat Chinese)
+[https://mp.weixin.qq.com/s?__biz=MzkzODYwMDU4MA==&mid=2247483722&idx=1&sn=be55a11640ce3983917b45f3dd04293e&chksm=c3b9d6aa5627dce5b7809d926c0bbf59aaf45b54fc9f3568884a69829011c41fead6fd4ab9d8&mpshare=1&scene=23&srcid=0727rlBr4ypjthJ0QN5Y3O8K&sharer_shareinfo=3d287d44cb8c00cf3850e15689c0eec7&sharer_shareinfo_first=3d287d44cb8c00cf3850e15689c0eec7#rd]
+
 ##  Operation systems
 
     Windows
